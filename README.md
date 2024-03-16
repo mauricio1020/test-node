@@ -7,7 +7,12 @@ Este proyecto es una aplicación web para la gestión de empleados y solicitudes
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_proyecto.git
+por https
+git clone https://github.com/mauricio1020/test-node.git
+
+por ssh:
+git clone  git@github.com:mauricio1020/test-node.git
+
 
 Instala las dependencias del frontend y del backend:
 cd nombreproyecto
