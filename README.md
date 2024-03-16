@@ -21,7 +21,6 @@ npm install
 
 cd nombreproyecto
 npm install
-node index.js
 
 
 Este proyecto utiliza una base de datos MySQL. Asegúrate de tener MySQL instalado en tu sistema.
@@ -48,12 +47,10 @@ Crea una nueva base de datos llamada testdb:
 
 
 Inicia el servidor backend:
-cd backend
-npm start
-idor backend:
+cd nombreproyecto
+node index.js
 
 Inicia el servidor frontend:
-
 cd frontend
 npm start
 
